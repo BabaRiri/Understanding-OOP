@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+//printing and recieving input and printing variables
 int main() {
 
     int num1, num2, sum;
