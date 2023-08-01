@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Project N/Desktop/OOP/LabWorks/LabWork8/operatorOverloading.cpp
+operatorOverloading.h
+C:/Users/Project N/Desktop/OOP/LabWorks/LabWork8/operatorOverloading.h
+
+C:/Users/Project N/Desktop/OOP/LabWorks/LabWork8/operatorOverloading.h
+iostream
+-
+

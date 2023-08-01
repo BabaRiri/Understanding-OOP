@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Project N/Desktop/OOP/LabWorks/LabWork6/main.cpp
+iostream
+-
+iomanip
+-
+rectangle.h
+C:/Users/Project N/Desktop/OOP/LabWorks/LabWork6/rectangle.h
+
+C:/Users/Project N/Desktop/OOP/LabWorks/LabWork6/rectangle.cpp
+iostream
+-
+iomanip
+-
+cmath
+-
+rectangle.h
+C:/Users/Project N/Desktop/OOP/LabWorks/LabWork6/rectangle.h
+
+C:/Users/Project N/Desktop/OOP/LabWorks/LabWork6/rectangle.h
+

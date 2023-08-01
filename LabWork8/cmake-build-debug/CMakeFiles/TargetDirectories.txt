@@ -1,0 +1,3 @@
+C:/Users/Project N/Desktop/OOP/LabWorks/LabWork8/cmake-build-debug/CMakeFiles/LabWork8.dir
+C:/Users/Project N/Desktop/OOP/LabWorks/LabWork8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Project N/Desktop/OOP/LabWorks/LabWork8/cmake-build-debug/CMakeFiles/rebuild_cache.dir

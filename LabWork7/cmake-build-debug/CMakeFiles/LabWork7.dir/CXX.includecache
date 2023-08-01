@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Project N/Desktop/OOP/LabWorks/LabWork7/line.cpp
+iostream
+-
+line.h
+C:/Users/Project N/Desktop/OOP/LabWorks/LabWork7/line.h
+
+C:/Users/Project N/Desktop/OOP/LabWorks/LabWork7/line.h
+
+C:/Users/Project N/Desktop/OOP/LabWorks/LabWork7/main.cpp
+iostream
+-
+iomanip
+-
+line.h
+C:/Users/Project N/Desktop/OOP/LabWorks/LabWork7/line.h
+
